@@ -11,8 +11,87 @@ Please email me if you are interested.
 arXiv:2210.00291, 2022\n
 
 === Journal papers
+
+. [https://doi.org/10.1016/j.energy.2022.125653 *Sizing capacities of renewable generation, transmission, and energy storage for low-carbon power systems: A distributionally robust optimization approach*]\n
+/Rui Xie/, Wei Wei, Mingxuan Li, ZhaoYang Dong, Shengwei Mei\n
+Energy, In Press
+. [https://ieeexplore.ieee.org/document/9681196 *Sizing Renewable Generation and Energy Storage in Stand-Alone Microgrids Considering Distributionally Robust Shortfall Risk*]\n
+/Rui Xie/, Wei Wei, Mohammad Shahidehpour, Qiuwei Wu, Shengwei Mei\n
+IEEE Transactions on Power Systems, 2022\n
+. [https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rpg2.12440 *Coordinate sizing of energy storage and transmission line for a remote renewable power plant*]\n
+/Rui Xie/, Wei Wei, Ming-Feng Ge, Qiuwei Wu, Shengwei Mei\n
+IET Renewable Power Generation, 2022\n
+. [https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rpg.2020.0354 *Sizing energy storage to reduce renewable power curtailment considering network power flows: a distributionally robust optimisation approach*]\n
+Zhongjie Guo, Wei Wei, Laijun Chen, /Rui Xie/, Shengwei Mei\n
+IET Renewable Power Generation, 2020\n
+. [https://ieeexplore.ieee.org/document/8937733 *Online Periodic Coordination of Multiple Pulsed Loads on All-Electric Ships*]\n
+/Rui Xie/, Ying Chen, Zhaojian Wang, Shengwei Mei, Fan Li\n
+IEEE Transactions on Power Systems, 2020\n
+. [https://ieeexplore.ieee.org/document/8887240 *Optimal Service Pricing and Charging Scheduling of an Electric Vehicle Sharing System*]\n
+/Rui Xie/, Wei Wei, Qiuwei Wu, Tao Ding, Shengwei Mei\n
+IEEE Transactions on Vehicular Technology, 2020\n
+. [https://ieeexplore.ieee.org/document/8390898 *Planning Fully Renewable Powered Charging Stations on Highways: A Data-Driven Robust Optimization Approach*]\n
+/Rui Xie/, Wei Wei, Mohammad E. Khodayar, Jianhui Wang, Shengwei Mei\n
+IEEE Transactions on Transportation Electrification, 2018\n
+. [https://ieeexplore.ieee.org/document/8326486 *Optimal Operation Planning for Orchestrating Multiple Pulsed Loads With Transient Stability Constraints in Isolated Power Systems*]\n
+Fan Li, Ying Chen, /Rui Xie/, Chen Shen, Lu Zhang, Boyu Qin\n
+IEEE Access, 2018\n
+. [https://ateee.iee.ac.cn/CN/abstract/abstract1738.shtml *基于混合整数二阶锥优化的高速路沿线充电设施网-站协调规划方法*]\n
+Coordinated planning of charging stations and power grid along highways based on MISOCP\n
+张节潭, /谢睿/, 郭树锋, 孟祥甫, 魏韡, 梅生伟\n
+电工电能新技术, 2018\n
+
 === Conference papers
+
+. *N-1 Contingency Constrained Transmission Expansion Planning with Offshore Wind Farm Integration*\n
+/Rui Xie/, Ke Sun, Xiaonan Han, Haoyang Yu, Mingxuan Li\n
+2022 5th International Conference on Renewable Energy and Power Engineering (REPE)\n
+. [https://dl.acm.org/doi/10.1145/3529299.3531483 *Distributionally Robust Renewable-Transmission-Storage Planning Considering Carbon Taxes*]\n
+/Rui Xie/, Wei Wei, Shengwei Mei\n
+2022 Asia Conference on Electrical, Power and Computer Engineering (EPCE)\n
+. [https://ieeexplore.ieee.org/document/9349718 *The Small-Signal Stability Region for Power Systems with Uncertain Parameters*]\n
+Qianli Ma, /Rui Xie/, Wei Wei, Libin Yang, Danman Wu, Shengwei Mei\n
+2020 10th International Conference on Power and Energy Systems (ICPES)\n
+. [https://ieeexplore.ieee.org/document/9349713 *Impact of Storage and Transmission Line Capacity on the Curtailment of a Remote Renewable Plant: A Multiparametric Programming Method*]\n
+Zhongjie Guo, /Rui Xie/, Qianli Ma, Libin Yang, Wei Wei, Shengwei Mei\n
+2020 10th International Conference on Power and Energy Systems (ICPES)\n
+. [https://ieeexplore.ieee.org/document/9189257 *A Distributionally Robust Approach for Transmission and Energy Storage Capacity Planning in a Remote Photovoltaic Power Plant*]\n
+Baomin Fang, /Rui Xie/, Wei Wei, Yanhe Li, Shengwei Mei\n
+2020 39th Chinese Control Conference (CCC)\n
+. [https://ieeexplore.ieee.org/document/8586252 *Operationally Constrained Optimal Dispatch of Multiple Pulsed Loads in an Isolated Microgrid*]\n
+/Rui Xie/, Ying Chen, Fan Li, Zhaojian Wang, Shengwei Mei\n
+2018 IEEE Power & Energy Society General Meeting (PESGM)\n
+. [https://ieeexplore.ieee.org/document/8484241 *Additional Control Based on ADP for Droop-Controlled Distributed Generator in Islanded Microgrid*]\n
+Fan Li, Ying Chen, /Rui Xie/\n
+2018 37th Chinese Control Conference (CCC)\n
+
 == Patents
+
+. *一种数据驱动的风电场储能容量规划方法*\n
+范越, 梅生伟, /谢睿/, 魏韡, 杨军, 李春来, 杨立滨, 李延和, 贾昆, 李正曦, 宋锐, 甘嘉田, 张真\n
+CN109617100B, 2022\n
+. *一种新能源微网中储能配置优化方法及系统*\n
+梅生伟, /谢睿/, 魏韡, 陈来军, 黄少伟\n
+CN108306319B, 2020\n
+. *一种电动汽车充电站规划方法及系统*\n
+梅生伟, /谢睿/, 魏韡, 陈来军, 黄少伟\n
+CN108334991B, 2020\n
+. *直流多微网系统的统一分布式控制方法及系统*\n
+陈颖, 刘锋, 王召健, 黄少伟, 梅生伟, /谢睿/\n
+CN108471109B, 2020\n
+. *孤立电力系统中脉冲负载能量调控方法及系统*\n
+陈颖, 李凡, 黄少伟, 沈沉, 梅生伟, /谢睿/\n
+CN108270218B, 2019\n
+. *孤立电力系统中脉冲负载能量调控方法及系统*\n
+陈颖, 李凡, 黄少伟, 沈沉, 梅生伟, /谢睿/\n
+CN107863779B, 2019\n
+
 == Theses
 
+. [PhDthesis.pdf *PhD dissertation (2022): 高比例新能源电力系统储能容量优化配置研究*]; 导师: [https://www.eea.tsinghua.edu.cn/faculties/qlu.htm 卢强]\n
+Sizing Energy Storage for Power Systems with a High Share of Renewable Energy; Supervisor: Prof. Qiang Lu\n
+. [BEthesis.pdf *B.E. dissertation (2017): 高速公路沿线电动汽车充电站规划方法研究*]; 导师: [https://www.eea.tsinghua.edu.cn/faculties/weiwei.htm 魏韡]\n
+Research on Planning Method of Electric Vehicle Charging Stations Along Highways; Supervisor: Dr. Wei Wei\n
+. [BSthesis.pdf *B.S. dissertation (2017): 基于期刊引用网络有向特征的学术期刊评价指标研究*]; 导师: 梁恒\n
+Research on Evaluation Indexes of Academic Journals Based on the Directed Characteristic of Journal Citation Network; Supervisor: Dr. Heng Liang\n
 
