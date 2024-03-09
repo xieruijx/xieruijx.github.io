@@ -9,7 +9,7 @@ Please email me if you are interested.
 . [https://arxiv.org/abs/2310.14744 *A Multi-timescale and Chance-Constrained Energy Dispatching Strategy of Integrated Heat-Power Community with Shared Hybrid Energy Storage*]\n
 Wenyi Zhang, Yue Chen, /Rui Xie/, Yunjian Xu\n
 arXiv:2310.14744, 2023\n
-. [https://arxiv.org/abs/2307.00207 *Low-Carbon Operation of Power Systems with Energy Storage via Electricity-Emission Prices*] ([2023_INFORMS_Carbon.pdf *Slides*])\n
+. [https://arxiv.org/abs/2307.00207 *Low-Carbon Operation of Power Systems with Energy Storage via Electricity-Emission Prices*] ([./file/2023_INFORMS_Carbon.pdf *Slides*])\n
 /Rui Xie/, Yue Chen\n
 arXiv:2307.00207, 2023\n
 
@@ -18,7 +18,7 @@ arXiv:2307.00207, 2023\n
 
 . [https://ieeexplore.ieee.org/document/10399845 *Robust Generation Dispatch with Purchase of Renewable Power and Load Predictions*] ([https://arxiv.org/abs/2210.00291 *arXiv*])\n
 /Rui Xie/, Pierre Pinson, Yin Xu, Yue Chen\n
-IEEE Transactions on Sustainable Energy, early access\n
+IEEE Transactions on Sustainable Energy, early access, DOI: 10.1109/TSTE.2024.3353779\n
 . [https://arxiv.org/abs/2212.14665 *Sizing Grid-Connected Wind Power Generation and Energy Storage with Wake Effect and Endogenous Uncertainty: A Distributionally Robust Method*]\n
 /Rui Xie/, Wei Wei, Yue Chen\n
 CSEE Journal of Power and Energy Systems, accepted\n
@@ -63,10 +63,10 @@ Coordinated planning of charging stations and power grid along highways based on
 The International Council on Electrical Engineering (ICEE) Conference 2023\n
 . [https://ieeexplore.ieee.org/document/9949338 *N-1 Contingency Constrained Transmission Expansion Planning with Offshore Wind Farm Integration*]\n
 /Rui Xie/, Ke Sun, Xiaonan Han, Haoyang Yu, Mingxuan Li\n
-2022 5th International Conference on Renewable Energy and Power Engineering (REPE), DOI: 10.1109/REPE55559.2022.9949338\n
+[./file/Session_Chair-RuiXie.pdf *2022 5th International Conference on Renewable Energy and Power Engineering (REPE)*], DOI: 10.1109/REPE55559.2022.9949338\n
 . [https://dl.acm.org/doi/10.1145/3529299.3531483 *Distributionally Robust Renewable-Transmission-Storage Planning Considering Carbon Taxes*]\n
 /Rui Xie/, Wei Wei, Shengwei Mei\n
-2022 Asia Conference on Electrical, Power and Computer Engineering (EPCE), DOI: 10.1145/3529299.3531483\n
+[./file/EPCE_E032.pdf *2022 Asia Conference on Electrical, Power and Computer Engineering (EPCE)*], DOI: 10.1145/3529299.3531483\n
 . [https://ieeexplore.ieee.org/document/9349718 *The Small-Signal Stability Region for Power Systems with Uncertain Parameters*]\n
 Qianli Ma, /Rui Xie/, Wei Wei, Libin Yang, Danman Wu, Shengwei Mei\n
 2020 10th International Conference on Power and Energy Systems (ICPES), DOI: 10.1109/ICPES51309.2020.9349718\n
@@ -106,10 +106,10 @@ CN107863779B, 2019\n
 
 == Theses
 
-. [PhDthesis.pdf *PhD dissertation (2022): 高比例新能源电力系统储能容量优化配置研究*]; 导师: [https://luqiang.eea.tsinghua.edu.cn/ 卢强]\n
+. [./file/PhDthesis.pdf *PhD dissertation (2022): 高比例新能源电力系统储能容量优化配置研究*]; 导师: [https://luqiang.eea.tsinghua.edu.cn/ 卢强]\n
 Sizing Energy Storage for Power Systems with a High Share of Renewable Energy; Supervisor: Prof. Qiang Lu\n
-. [BEthesis.pdf *B.E. dissertation (2017): 高速公路沿线电动汽车充电站规划方法研究*]; 导师: [https://www.eea.tsinghua.edu.cn/faculties/weiwei.htm 魏韡]\n
+. [./file/BEthesis.pdf *B.E. dissertation (2017): 高速公路沿线电动汽车充电站规划方法研究*]; 导师: [https://www.eea.tsinghua.edu.cn/faculties/weiwei.htm 魏韡]\n
 On Planning Method of Electric Vehicle Charging Stations Along Highways; Supervisor: Dr. Wei Wei\n
-. [BSthesis.pdf *B.S. dissertation (2017): 基于期刊引用网络有向特征的学术期刊评价指标研究*]; 导师: 梁恒\n
+. [./file/BSthesis.pdf *B.S. dissertation (2017): 基于期刊引用网络有向特征的学术期刊评价指标研究*]; 导师: 梁恒\n
 On Evaluation Indexes of Academic Journals Based on the Directed Characteristic of Journal Citation Network; Supervisor: Dr. Heng Liang\n
 
