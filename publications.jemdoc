@@ -27,7 +27,7 @@ CSEE Journal of Power and Energy Systems, accepted\n
 Optimal Ratio of Wind-Solar-Storage Capacity for Mitigating the Power Fluctuations in Power System with High Penetration of Renewable Energy Power Generation\n
 魏韡, 范越, /谢睿/, 白珈于, 梅生伟\n
 电力建设, 2023, DOI: 10.12204/j.issn.1000-7229.2023.03.014\n
-《电力建设》期刊2023年度优秀论文\n
+[https://mp.weixin.qq.com/s/OUl7TAavisOxO9pV4XxMww 《电力建设》期刊2023年度优秀论文]\n
 . [https://www.sciencedirect.com/science/article/pii/S0360544222025397 *Sizing capacities of renewable generation, transmission, and energy storage for low-carbon power systems: A distributionally robust optimization approach*]\n
 /Rui Xie/, Wei Wei, Mingxuan Li, ZhaoYang Dong, Shengwei Mei\n
 Energy, 2023, DOI: 10.1016/j.energy.2022.125653\n
@@ -59,15 +59,18 @@ Coordinated planning of charging stations and power grid along highways based on
 
 === Conference papers
 
+. *Privacy-Preserving Aggregated Load Forecasting Based on Vertical Federated Learning*\n
+/Rui Xie/, Yue Chen\n 
+Nexus Forum 2024, accepted\n
 . [https://icee2023proceedings.org/dl/ICEE23JY-036-FP.pdf *Valuation of Distributed Predictive Information in Robust Economic Dispatch*]\n
 /Rui Xie/, Tao Tan, Yue Chen\n
 The International Council on Electrical Engineering (ICEE) Conference 2023\n
 . [https://ieeexplore.ieee.org/document/9949338 *N-1 Contingency Constrained Transmission Expansion Planning with Offshore Wind Farm Integration*]\n
 /Rui Xie/, Ke Sun, Xiaonan Han, Haoyang Yu, Mingxuan Li\n
-[./file/Session_Chair-RuiXie.pdf *2022 5th International Conference on Renewable Energy and Power Engineering (REPE)*], DOI: 10.1109/REPE55559.2022.9949338\n
+[./file/Session_Chair-RuiXie.pdf 2022 5th International Conference on Renewable Energy and Power Engineering (REPE)], DOI: 10.1109/REPE55559.2022.9949338\n
 . [https://dl.acm.org/doi/10.1145/3529299.3531483 *Distributionally Robust Renewable-Transmission-Storage Planning Considering Carbon Taxes*]\n
 /Rui Xie/, Wei Wei, Shengwei Mei\n
-[./file/EPCE_E032.pdf *2022 Asia Conference on Electrical, Power and Computer Engineering (EPCE)*], DOI: 10.1145/3529299.3531483\n
+[./file/EPCE_E032.pdf 2022 Asia Conference on Electrical, Power and Computer Engineering (EPCE)], DOI: 10.1145/3529299.3531483\n
 . [https://ieeexplore.ieee.org/document/9349718 *The Small-Signal Stability Region for Power Systems with Uncertain Parameters*]\n
 Qianli Ma, /Rui Xie/, Wei Wei, Libin Yang, Danman Wu, Shengwei Mei\n
 2020 10th International Conference on Power and Energy Systems (ICPES), DOI: 10.1109/ICPES51309.2020.9349718\n
@@ -77,6 +80,10 @@ Zhongjie Guo, /Rui Xie/, Qianli Ma, Libin Yang, Wei Wei, Shengwei Mei\n
 . [https://ieeexplore.ieee.org/document/9189257 *A Distributionally Robust Approach for Transmission and Energy Storage Capacity Planning in a Remote Photovoltaic Power Plant*]\n
 Baomin Fang, /Rui Xie/, Wei Wei, Yanhe Li, Shengwei Mei\n
 2020 39th Chinese Control Conference (CCC), DOI: 10.23919/CCC50068.2020.9189257\n
+. [https://ieeexplore.ieee.org/document/8881677 *Coordinated Planning of Storage Unit in a Remote Wind Farm and Grid Connection Line: A Distributionally Robust Optimization Approach*]\n 
+Libin Yang, /Rui Xie/, Wei Wei, Cai Sun, Shengwei Mei\n 
+2019 IEEE Innovative Smart Grid Technologies - Asia (ISGT Asia), DOI: 10.1109/ISGT-Asia.2019.8881677\n
+[./file/ISGTAsia2019.jpg Best Paper Award]
 . [https://ieeexplore.ieee.org/document/8586252 *Operationally Constrained Optimal Dispatch of Multiple Pulsed Loads in an Isolated Microgrid*]\n
 /Rui Xie/, Ying Chen, Fan Li, Zhaojian Wang, Shengwei Mei\n
 2018 IEEE Power & Energy Society General Meeting (PESGM), DOI: 10.1109/PESGM.2018.8586252\n
