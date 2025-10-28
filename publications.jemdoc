@@ -14,9 +14,9 @@ Yingrui Zhuang, Lin Cheng, Can Wan, /Rui Xie/, Ning Qi, Yue Chen\n
 arXiv:2503.11001, 2025\n
 
 === Journal papers
-. *Predict-and-optimize robust unit commitment with statistical guarantees via weight combination* ([https://arxiv.org/abs/2411.03138 arXiv])([./file/Predict-and-optimize_RUC.pdf slides])\n 
+. [https://ieeexplore.ieee.org/document/11176839 *Predict-and-optimize robust unit commitment with statistical guarantees via weight combination*] ([https://arxiv.org/abs/2411.03138 arXiv])([./file/Predict-and-optimize_RUC.pdf slides])\n 
 /Rui Xie/, Yue Chen, Pierre Pinson\n 
-IEEE Transactions on Power Systems, 2025, accepted, DOI: 10.1109/TPWRS.2025.3613360\n
+IEEE Transactions on Power Systems, 2025, early access, DOI: 10.1109/TPWRS.2025.3613360\n
 . [https://ieeexplore.ieee.org/document/10999049 *Robust Microgrid Dispatch with Real-Time Energy Sharing and Endogenous Uncertainty*] ([https://arxiv.org/abs/2403.15219 arXiv])\n
 Meng Yang, /Rui Xie/, Yongjun Zhang, Yue Chen\n 
 IEEE Transactions on Smart Grid, 2025, DOI: 10.1109/TSG.2025.3569095\n
@@ -78,13 +78,16 @@ Coordinated planning of charging stations and power grid along highways based on
 
 === Conference papers
 
-. [https://digital-library.theiet.org/doi/10.1049/icp.2025.0507 *Online Low-Carbon Workload, Energy, and Temperature Management of Distributed Data Centers*] ([https://arxiv.org/abs/2412.20032 arXiv], [./file/ECE_Forum_Presentation.pdf Slides], [./file/Poster_106.pdf Poster])\n 
+. *Robust Parametric Microgrid Dispatch Under Endogenous Uncertainty of Operation- and Temperature-Dependent Battery Degradation*\n 
+/Rui Xie/, Jun Wang, Jiaxu Duan, Chao Ma, Yunhui Liu, Yue Chen\n
+The 5th Energy Conversion and Economics Annual Forum (ECE 2025), accepted\n
+. [https://digital-library.theiet.org/doi/10.1049/icp.2025.0507 *Online Low-Carbon Workload, Energy, and Temperature Management of Distributed Data Centers*] ([https://arxiv.org/abs/2412.20032 arXiv], [./file/ECE_Forum_Presentation.pdf slides], [./file/Poster_106.pdf poster])\n 
 /Rui Xie/, Yue Chen, Xi Weng\n 
 The 4th Energy Conversion and Economics Annual Forum (ECE Forum 2024), DOI: 10.1049/icp.2025.0507\n
-. *Privacy-Preserving Aggregated Load Forecasting Based on Vertical Federated Learning* ([./file/Nexus_Forum_2024_Paper_20.pdf Slides])\n
+. *Privacy-Preserving Aggregated Load Forecasting Based on Vertical Federated Learning* ([./file/Nexus_Forum_2024_Paper_20.pdf slides])\n
 /Rui Xie/, Yue Chen\n 
 [./file/receipt_pdf_13--Rui.pdf Nexus Forum 2024]\n
-. *Valuation of Distributed Predictive Information in Robust Economic Dispatch* ([./file/ICEE23JY-036.pdf Slides])\n
+. *Valuation of Distributed Predictive Information in Robust Economic Dispatch* ([./file/ICEE23JY-036.pdf slides])\n
 /Rui Xie/, Tao Tan, Yue Chen\n
 The International Council on Electrical Engineering (ICEE) Conference 2023\n
 . [https://ieeexplore.ieee.org/document/9949338 *N-1 Contingency Constrained Transmission Expansion Planning with Offshore Wind Farm Integration*]\n
