@@ -146,6 +146,7 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -381,10 +382,10 @@ def hb(f, tag, content1, content2=None):
     content1 = ""
 
   if content2 is None:
-    out(f, re.sub(r'\|', content1, tag))
+    out(f, re.sub(r'\|', lambda _: content1, tag))
   else:
-    r = re.sub(r'\|1', content1, tag)
-    r = re.sub(r'\|2', content2, r)
+    r = re.sub(r'\|1', lambda _: content1, tag)
+    r = re.sub(r'\|2', lambda _: content2, r)
     out(f, r)
 
 def pc(f, ditchcomments=True):
@@ -1191,7 +1192,7 @@ def procfile(f):
   showfooter = True
   showsourcelink = False
   showlastupdated = True
-  showlastupdatedtime = True
+  showlastupdatedtime = False
   nodefaultcss = False
   fwtitle = False
   css = []
