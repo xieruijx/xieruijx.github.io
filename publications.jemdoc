@@ -14,9 +14,6 @@ Please email me if you are interested.
 # . Cyber-Physical Coordinated Restoration of Distribution Systems With Space-Air-Ground Integrated Networks (SAGIN)\n 
 # Hanyu Zhang, Quan Zhou, /Rui Xie/*, Zhaoyue Xia, Zijun Long, Zhikang Shuai\n 
 # Submitted to IEEE Transactions on Smart Grid, 2026\n
-# . Decision-Dependent Robust Flexibility Assessment of Hybrid Pumped-Storage Hydropower via Improved Nested Column-and-Constraint Generation\n 
-# Zhihui Su, /Rui Xie/\n 
-# Submitted to IEEE PES International Meering 2027\n
 # . Microgrid Dispatch Considering the Decision-Dependent Uncertainty of Energy Storage System Degradation\n 
 # /Rui Xie/, Jun Wang, Hui Li, Jiaxu Duan, Yue Chen\n 
 # Submitted to Energy Conversion and Economics, 2026\n
@@ -99,8 +96,11 @@ Coordinated planning of charging stations and power grid along highways based on
 
 === Conference papers
 
+. *Decision-Dependent Robust Flexibility Assessment of Hybrid Pumped-Storage Hydropower via Improved Nested Column-and-Constraint Generation*\n 
+Zhihui Su, /Rui Xie/\n 
+IEEE PES International Meering 2027, accepted\n
 . *Energy-Storage-Integrated Nonconvex-Nonlinear Wind-Solar-Thermal Multi-Area Dynamic Economic Dispatch via RL-CIVF-CLPSO*\n 
-Yang Wang, /Rui Xie/, Shengping Xu\n 
+Yang Wang, /Rui Xie/*, Shengping Xu\n 
 IEEE PES International Meering 2027, accepted\n
 . [https://digital-library.theiet.org/doi/pdf/10.1049/icp.2026.1618 *Robust Parametric Microgrid Dispatch Under Endogenous Uncertainty of Operation- and Temperature-Dependent Battery Degradation*] ([https://arxiv.org/abs/2603.11978 arXiv])\n 
 /Rui Xie/, Jun Wang, Jiaxu Duan, Chao Ma, Yunhui Liu, Yue Chen\n
